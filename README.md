@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on: xinzhiye.com
-- 👯 My personal website: https://www.dragon-yuan.me
+- 👯 My personal website: http://aloong.me/0x0
 - 📫 How to reach me: loong0306@gmail.com
 - 😄 Hobby: acting cute
 - 🤔 Wish: get rich overnight
