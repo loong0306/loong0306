@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on: xinzhiye.com
 - 👯 My personal website: http://aloong.me/0x0
 - 📫 How to reach me: loong0306@gmail.com
+- 📱 Wechat official account: 小龙侃 
 - 😄 Hobby: acting cute
 - 🤔 Wish: get rich overnight
 - 📌 Amateur Radio Call Sign: BI1JUN
