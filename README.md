@@ -1,6 +1,6 @@
 [![](https://count.getloli.com/get/@dragon-yuan.github.readme)](https://count.getloli.com/)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275"/>
+<!-- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275"/> -->
 
 ### Hi friend, I'm dragon say hello. 👋
 
