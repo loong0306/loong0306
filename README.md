@@ -4,7 +4,6 @@
 ### Hi friend, I'm dragon say hello. 👋
 
 
-- 🔭 I’m currently working on: blpw
 - 👯 My personal website: http://aloong.me/0x0
 - 📫 How to reach me: loong0306@gmail.com
 - 📱 Wechat official account: 小龙侃 
