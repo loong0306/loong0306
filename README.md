@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275"/>
 
-### Hi friend, I'm dragon say hello. 👋
+### Hi friend, I'm cute loong say hello. 👋
 
 
 - 👯 My personal website: http://aloong.me/0x0
