@@ -1,4 +1,3 @@
-
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275"/>
 
 ### Hi friend, I'm cute loong say hello. 👋
