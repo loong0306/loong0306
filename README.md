@@ -3,10 +3,10 @@
 ### Hi friend, I'm cute loong say hello. 👋
 
 
-- 👯 My personal website: http://aloong.me/0x0
-- 📫 How to reach me: loong0306@gmail.com
+- 👯 My personal website: https://aloong.me
+- 📫 How to reach me: i@aloong.me
 - 📱 Wechat official account: 小龙侃 
 - 😄 Hobby: acting cute
 - 🤔 Wish: get rich overnight
 - 📌 Amateur Radio Call Sign: BI1JUN
-- 💰 0x7F19Ea9fD09c57b43F62B5f65faBe9c629905b26
+- 0x7F19Ea9fD09c57b43F62B5f65faBe9c629905b26
