@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275"/>
+<img src="assets/ai-mac-desk.gif" alt="Relaxing while AI writes code on a Mac desktop" align="right" height="275"/>
 
 ### Hi there! I'm Byron. Nice to meet you! 👋
 
